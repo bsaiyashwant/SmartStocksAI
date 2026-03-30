@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+confluent-kafka
+pyspark==3.5.0
+yfinance
+pandas
+numpy
+scikit-learn
+websockets
