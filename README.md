@@ -1,4 +1,4 @@
-# SmartStocks AI 📈🚀
+# SmartStocks AI 📈
 
 This project is a modern, enterprise-grade Stock Market Big Data engineering pipeline. It simulates real-time data ingestion, processing, and visualization using industry-standard tools: **Apache Kafka**, **PySpark Structured Streaming**, **FastAPI (WebSockets)**, and a **Vite + React** frontend.
 
